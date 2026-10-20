@@ -1,0 +1,8 @@
+fetch joyemulated{
+connect ai.cst2
+
+completions="extract"
+fine_cloud set optimize{
+try true/false
+fine_cloud_optimize=true}
+end

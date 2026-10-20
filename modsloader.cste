@@ -1,0 +1,29 @@
+{1.  
+
+c=confirm
+f=folder
+
+read info.i
+fetch mods{
+
+?(listenfor "id"
+id>
+a3861342
+b922635524
+c92736463)
+
+return; confirm ifincomplete="null"
+try true/false
+return2; confirm ifcomplete=(fetch,313
+1,paste)
+ifprint!(c) "Loaded mods sucessfully."}
+{
+
+id(s):
+ifprint! = id310
+?(listenfor = id311
+
+}
+
+no_use = [?(listenfor = id311]
+end
